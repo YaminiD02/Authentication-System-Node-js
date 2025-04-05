@@ -281,6 +281,4 @@ x-api-key: your_api_key
 
 ---
 
-## 📧 Contact
 
-For any queries or suggestions, feel free to open an issue or contribute!
